@@ -21,8 +21,8 @@ pip install 'https://github.com/jetson-nano-wheels/python3.7-numpy-1.20.3/releas
 Like this:
 
 ```sh
-git clone git@github.com:jetson-nano-wheels/python3.6-numpy-1.19.4
-cd python3.6-numpy-1.19.4
+git clone git@github.com:jetson-nano-wheels/python3.7-numpy-1.20.3
+cd python3.7-numpy-1.20.3
 git checkout -b feature-my-fancy-addition
 ./init.sh
 ```
